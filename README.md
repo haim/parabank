@@ -12,6 +12,7 @@ Run `mvn allure:serve`
 
 It will automatically open `http://localhost:8080` in your browser
 
-## To see video demonstration:
+## To watch video demonstration:
 There is a demonstration of parallel run using the firefox browser:
+https://youtu.be/50ZHAZIAPYg
 
